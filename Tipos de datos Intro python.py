@@ -25,4 +25,4 @@ print (type(6)) #tipo "int"
 print (type(1.5)) #tipo float
 print (type(True)) # tipo "bool"
 print (type(3 + 3j)) # tipo "Complex"
-
+print(type(print(myvariable, mi_int_variable, mi_int_to_str_variable, variable_bool))) #tipo "Nontype"
