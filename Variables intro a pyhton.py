@@ -1,0 +1,3 @@
+
+#variableas
+print ("int")
