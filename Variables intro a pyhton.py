@@ -41,9 +41,8 @@ print("mellamo:",name, ",mi apellido es:",surname, ",me conocen como:",alias)
 #variables que solicitan datos
 first_name = input("cual es tu nombre?:")
 print ("hola,",first_name)
-age = input("que edad tienes?:")
-age= 0
-if age <= 29: print ("estas muy roco")
+age = int(input("que edad tienes?:"))
+if age > 29: print ("estas muy roco")
 else:
     print ("estas muy joven")
 
