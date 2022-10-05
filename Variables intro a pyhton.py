@@ -49,4 +49,10 @@ if age > 29:
 else:
     print ("estas muy joven")
 
+#Forzar el tipo
+address : str = "direccion" 
+address = 32 
+print (address)
+#esto asi, hace una sobreescrito 
+
 
