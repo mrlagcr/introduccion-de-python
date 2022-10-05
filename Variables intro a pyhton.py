@@ -45,5 +45,3 @@ age = int(input("que edad tienes?:"))
 if age > 29: print ("estas muy roco")
 else:
     print ("estas muy joven")
-else:
-    print ("estas muy joven")
