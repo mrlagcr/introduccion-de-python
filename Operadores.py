@@ -39,6 +39,15 @@ print( 3 == 4)
 print (3!=4 )
 print (4 == 4 > 5)
 
+print( "Hola" > "python" )
+print( "hola" < "python" )
+print( "hola" >= "python" )
+print( "hola" <= "python" )
+print( "hola" == "bola")
+print( "hola" == "Zola") #ordenacion albetica
+print("hola" != "pyhton")
+
+
  
 
 
